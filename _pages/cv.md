@@ -11,26 +11,48 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+EDUCATION BACKGROUND
+1.	PhD in Computer Science (Ongoing)
+University of Twente and Busitema University
+Low-Cost Computer Vision in Multi-crop Disease Detection.
+
+2.	Master of Science in Internet of Things: Embedded Computing Systems.
+University of Rwanda, Kigali-Rwanda (2019 – 2021)
+Thesis Title: Design of an Embedded Machine Learning Based System for an Environmental-Friendly Crop Prediction Using Sustainable Soil Fertility Management 
+
+3.	Bachelor of Science in Computer Engineering
+Busitema University, Uganda (2011 – 2015)
+Awarded a First-Class Honors. Worked with the i-labs team of the computer engineering department developing automated systems.
+4.	 Uganda Advanced Certificate of Education
+Masaka Secondary School, Uganda (2009 – 2010)
+General secretary Science club 
+5.	Uganda Certificate of Education
+Masaka Secondary School, Uganda (2005 – 2008)
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+WORK EXPERIENCE      
+*Busitema University, Tororo-Uganda (2025 to date)
+  *Assistant Lecturer at the faculty of Engineering, Department of Computer Engineering and Informatics.
+    *Teaching: Delivering content and teaching computer Engineering and Electrical Engineering students. 
+  *Assistant ICT Officer in charge of networks (2023 to 2025)
+    *Piloted the G-suite email migration from the webmail service which is currently offering institutional email services for the university.
+    *Managing the G-suite email services for the university for all campuses and faculties
+  *ICT Systems Librarian at the Engineering Library, Busitema Campus. (2022-2023)
+    *Designing, Developing and customization of Open-Source Information systems that help in digitization and digitalization of university services.
+    *Automation of ICT applications in the library and ensuring that they function well.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+*Egyptian Space Agency (2023)
+	Participated in ClimCam Project in the building of the Climate Camera to be mounted on the Bartolomeo module for the International Space Station (ISS).
+	Worked on the Machine Learning Model to help in climate prediction using the Normalized Difference Vegetation Index (NDVI).
+	Designed the On-Board Computer (both Schematic and Printed Circuit Board (PCB) for the African Development Satellite (AFDevSat)
+	Participated in the design of the MSP Board for the ClimCam Project.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+	Friends Credit Finance Limited (Kampala, Uganda)
+Assistant Operations and IT Manager (2016 – 2019)
+•	Hardware and Software maintenance, installation and repairs
+•	Network administrator and administrative support 
   
 Skills
 ======
