@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at University of Twente with the [Data Management and Biometrics Group]([https://busitema.ac.ug](https://www.utwente.nl/en/eemcs/dmb/). I am also an Assistant Lecturer in the department of Computer Engineering at [Busitema University](https://busitema.ac.ug).
+I am a PhD candidate at University of Twente with the [Data Management and Biometrics Group](https://www.utwente.nl/en/eemcs/dmb/). I am also an Assistant Lecturer in the department of Computer Engineering at [Busitema University](https://busitema.ac.ug).
 
 My PhD is supervised by Assistant Professor Estefanía Talavera (University of Twente), Dr. Godliver Owomugisha (Busitema University) and Prof. Luuk Spreeuwers (University of Twente)
 
