@@ -17,17 +17,17 @@ University of Twente and Busitema University
 Low-Cost Computer Vision in Multi-crop Disease Detection.
 
 2.	Master of Science in Internet of Things: Embedded Computing Systems.
-University of Rwanda, Kigali-Rwanda (2019 – 2021)
+University of Rwanda, Kigali-Rwanda
 Thesis Title: Design of an Embedded Machine Learning Based System for an Environmental-Friendly Crop Prediction Using Sustainable Soil Fertility Management 
 
 3.	Bachelor of Science in Computer Engineering
-Busitema University, Uganda (2011 – 2015)
+Busitema University, Uganda 
 Awarded a First-Class Honors. Worked with the i-labs team of the computer engineering department developing automated systems.
 4.	 Uganda Advanced Certificate of Education
-Masaka Secondary School, Uganda (2009 – 2010)
+Masaka Secondary School, Uganda
 General secretary Science club 
 5.	Uganda Certificate of Education
-Masaka Secondary School, Uganda (2005 – 2008)
+Masaka Secondary School, Uganda
 
 
 Work experience
